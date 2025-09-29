@@ -65,7 +65,7 @@ from petstore_client import PetClient, UserClient
 # print(update_user_response.status_code)
 # print(update_user_response.json())
 #
-# delete_user_response = user_client.delete_user("horsehead")
-#
-# print(delete_user_response.status_code)
-# print(delete_user_response.json())
+delete_user_response = user_client.delete_user("horsehead")
+
+print(delete_user_response.status_code)
+print(delete_user_response.json())

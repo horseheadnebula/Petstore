@@ -42,4 +42,7 @@ class UserClient(PetStoreClient):
         response = self.delete(path)
         return response
 
+class StoreClient(PetStoreClient):
+    pass
+
 

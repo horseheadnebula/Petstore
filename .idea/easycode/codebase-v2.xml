@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/tests/conftest.py;/home/horseheadnebula/PycharmProjects/Petstore/tests/test_petstore_client.py;/home/horseheadnebula/PycharmProjects/Petstore/api_client.py;/home/horseheadnebula/PycharmProjects/Petstore/main.py;/home/horseheadnebula/PycharmProjects/Petstore/petstore_client.py" />
+  </component>
+</project>
